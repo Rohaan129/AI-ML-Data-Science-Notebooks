@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+imageio
+scikit-image
+requests
+openpyxl
